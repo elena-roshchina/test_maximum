@@ -1,0 +1,8 @@
+Python 3.7.7
+numpy-1.21.1.dist-info
+pandas-1.3.1.dist-info
+psycopg2-2.9.1.dist-info
+python_dateutil-2.8.2.dist-info
+pytz-2021.1.dist-info
+six-1.16.0.dist-info
+tabulate-0.8.9.dist-info
