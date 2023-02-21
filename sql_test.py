@@ -5,9 +5,9 @@ from tabulate import tabulate
 
 SETTINGS = {"dbname": "data",
             "user": "elena_roshchina",
-            "host": "5.189.224.160",
-            "password": "WkbFqM5gljop",
-            "port": "15432"}
+            "host": "",
+            "password": "",
+            "port": ""}
 
 TABLE_NAMES = ['sessions', 'communications']
 
